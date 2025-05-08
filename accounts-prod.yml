@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to microservice accounts related production APIs "
+  message: "Welcome to microservice accounts related prod APIs "
   contactDetails:
     name: "Kirill Vlasenko - Product Owner"
     email: "{cipher}1ab420c955cf249c2cf2ed1b01fec545e599b97c21c7959c4842b839e0d020a9"
