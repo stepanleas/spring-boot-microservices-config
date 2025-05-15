@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to microservice accounts related docker 123 APIs"
+  message: "Welcome to microservice accounts related docker APIs"
   contactDetails:
     name: "Stepan Leas - Developer"
     email: "leasstepan1999@gmail.com"
